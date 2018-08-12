@@ -3,6 +3,12 @@
 Find the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).
 
 You may assume nums1 and nums2 cannot be both empty.
+Given Example:
+
+nums1 = [1, 5]
+nums2 = [3]
+
+The median is 3.0
 */
 
 object Solution {
